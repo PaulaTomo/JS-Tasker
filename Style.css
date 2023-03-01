@@ -1,0 +1,23 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+h1{
+    padding: 15px;
+    background-color: rgba(245, 222, 179, 0.38);
+    color: #3a3939;
+
+}
+#task{
+    cursor: pointer;
+}
+.card{
+    margin-top: 20px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+
+}
